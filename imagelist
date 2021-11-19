@@ -1,0 +1,34 @@
+munchlax images/munchlax1.png
+munchlax images/munchlax2.png
+munchlax images/munchlax3.png
+munchlax images/munchlax4.png
+munchlax images/munchlax5.png
+munchlax images/munchlax6.png
+munchlax images/munchlax7.png
+munchlax images/munchlax8.png
+charizard images/charizard1.png 255 255 255 0
+charizard images/charizard2.png 255 255 255 0
+charizard images/charizard3.png 255 255 255 0
+snorlax images/snorlax.png
+rocks images/PokemonDirt.png
+grass images/PokemonGrass203.jpg
+pokemonCenter images/pokemonCenter.png 255 255 255 0
+bulbasaur images/bulbasaur1.png 252 252 252 0
+bulbasaur images/bulbasaur2.png 252 252 252 0
+bulbasaur images/bulbasaur3.png 252 252 252 0
+bulbasaur images/bulbasaur4.png 252 252 252 0
+bulbasaur images/bulbasaur5.png 252 252 252 0
+venusaur images/venusaur.png 252 252 255 0
+snorlax images/snorlax.png 255 255 255 0
+obstacle images/tree.png
+charmander images/charmander.png 201 26 26 0
+rareCandy images/rareCandy.png
+rareCandyChef images/rareCandyChef.png 0 0 255 0
+rareCandyChef images/rareCandyChef2.png 0 0 255 0
+rareCandyChef images/rareCandyChef3.png 0 0 255 0
+berries images/oranBerry.png
+background_default images/none.bmp
+player images/export-0004.png 255 255 255 0
+player images/export-0005.png 55 255 255 0
+player images/export-0002.png 255 255 255 0
+player images/export-0003.png 255 255 255 0

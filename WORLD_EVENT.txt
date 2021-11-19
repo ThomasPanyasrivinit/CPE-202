@@ -1,0 +1,16 @@
+1. How To Trigger The Event
+    A mouse click will cause a master rare candy chef to spawn. Around him, he spawns a ring or "aura" of delicious rare candies which are munchlax's favorite treats.
+
+2. What Should Happen When The Event Is Triggered
+    When the rare candy chef spawns, he turns the closest bulbasaur into a venusaur for a short period of time.
+    He can't affect a charizard because charizard doesn't have anymore evolutions left (unless you're counting mega-evolution but you would need a mega stone to do that :))
+
+3. What The Affected Entities Should Do
+    Because bulbasaur ate so much rare candies to evolve, as a venusaur, he is so full and sleepy that he moves super slow for a short amount of time.
+    The effects of the candy eventually wear off and venusaur turns back into a bulbasaur. Munchlax is given a candy(his favorite food!); he stops crying
+     and evolves into a snorlax permanently. He continues to sleep in the same place and no longer animates.
+
+4. What The New Entity Is And How It Should Behave
+   The rare candy chef notices that munchlax is causing a tantrum and walks to calm him down by feeding him some delicious rare candies. Chef follows Astar pathing
+   to reach the closest munchlax and make it evolve. The chef can only walk 30 tiles before he gets tired and leaves the game, waiting for the next mouseclick to
+   call him back into the game.

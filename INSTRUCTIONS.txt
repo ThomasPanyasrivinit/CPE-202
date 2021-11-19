@@ -1,0 +1,29 @@
+STORY/GAME CONTEXT
+Pokemon have broken out of Professor Oak's lab and he needs your help to catch them! Alongside yourself, you have the help of a chef
+who can make delicious rare candies but is otherwise useless in helping you! These candies have the power to make pokemon evolve!
+The main task of the game is to collect pokemon that have escaped. Other features are just for fun!
+
+INSTRUCTIONS
+Collect pokemon by running into them! (Pokemon that run into YOU will NOT be collected!)
+To win the game, collect 10 pokemon!
+
+HOW TO EVOLVE POKEMON
+Make pokemon evolve by pressing the keys A,S,and D
+1. To make a bulbasaur evolve into a venusaur, press A
+2. To make a charmander evolve into a charizard, press S
+3. To make a munchlax evolve into a snorlax, press D
+
+HOW TO TRIGGER MOUSE-CLICK EVENT
+You can toggle the ability to create a mouse-click event by pressing Q and W
+1. Press Q to turn on your ability
+2. Press W to turn off your ability
+
+SIDE NOTES
+
+2. I originally just did the basic project 3 requirements and wasn't going for the extra credit. BUT because we're presenting
+our projects, I wanted to make my project a little more interesting to present. I haven't implemented another pathing algorithm
+other than ASTAR and Single Step or made a video to explain this game because I am not going for extra credit. Thank you!
+Thomas Panyasrivinit
+
+
+
